@@ -1,0 +1,14 @@
+{
+  "Id": "Donut's Essentials",
+  "DisplayName": "Donut's Essentials",
+  "Author": "Donut792",
+  "Version": "0.0.784",
+  "ManagerVersion": "1.0.0",
+  "GameVersion": "0.0.784",
+  "Requirements": [ "SomeMod-1.0.0", "AnotherMod" ],
+  "LoadAfter": [ "SomeMod", "AnotherMod" ],
+  "AssemblyName": "Donut's_Essentials'.dll",
+  "EntryMethod": "Donut's_Essentials.Main.Load"
+  "HomePage": "Donut792.Com"
+  "Repository": ""
+}
